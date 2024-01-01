@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashant Gangoliya
-- 👀 I’m interested in Data Science and analysis
-- 🌱 I’m currently learning Data Analysis using various tools
-- 💞️ I’m looking to collaborate on Data related queries
+- 👀 I’m a Azure Data Engineer and Data Analyst
+- 🌱 I use tools like Azure Databricks, Azure Data Factory and Microsft Power BI
+- 💞️ I have a few projects to showcase, uploading soon.
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/gangoliya/
 
 <!---
